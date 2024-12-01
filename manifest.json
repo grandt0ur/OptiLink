@@ -1,0 +1,9 @@
+{
+    "id": "OptiLink",
+    "name": "OptiLink",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Automatically creates and maintains MOCs based on tags",
+    "author": "OpticXML",
+    "isDesktopOnly": false
+} 
