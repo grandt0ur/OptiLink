@@ -33,7 +33,7 @@ OptiLink is an Obsidian plugin that automatically creates and maintains connecti
 ### Manual Installation
 
 1. Download the latest release from GitHub
-2. Extract the files to your vault's `.obsidian/plugins/obsidian-optilink/` folder
+2. Extract the files to your vault's `.obsidian/plugins/OptiLink/` folder
 3. Reload Obsidian
 4. Enable the plugin in your list of installed plugins
 
